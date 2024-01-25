@@ -1,6 +1,8 @@
 
 body {
-    background-color: #2283a6 !important;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.qy7UVkPE39xqLs3S-6GTfAHaE2%26pid%3DApi&f=1&ipt=93f338833c998b32dc18d756ae3094d21174bcdbb7c99e35263d3ef2373cd206&ipo=images");
+    /* background-image: url("https://cdn.wallpapersafari.com/19/75/i2vCxT.jpg"); */
+    /* background-color: #2283a6 !important; */
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     display: flex;
@@ -9,13 +11,13 @@ body {
     height: 100vh;
 
 }
-.container {
+/* .container {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
-}
+} */
 
 form {
     display: grid;
@@ -31,4 +33,5 @@ input {
     box-sizing: border-box;
     border: 1px solid #ccc;
     border-radius: 4px;
+    
 }
